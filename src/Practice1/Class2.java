@@ -9,6 +9,7 @@ public class Class2 {
 		obj.Test2((float)120.24,(float)90.87);
 		obj.Test3((short)10,(short)20);
 		obj.Test4(250,25);
+		System.out.println("Updating class2 as well for verification....");
 
 	}
 	
